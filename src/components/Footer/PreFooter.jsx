@@ -183,6 +183,7 @@ export default function PreFooter() {
                         },
                         minWidth: '108px',
                       }}
+                      disabled={success}
                     >
                       {success
                         ? t('PREFOOTER_SUBSCRIBE.BUTTON_SUBSCRIBED')
