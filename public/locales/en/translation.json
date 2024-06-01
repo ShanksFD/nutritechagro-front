@@ -1,0 +1,129 @@
+{
+  "MAIN_HEADER": {
+    "MENU": {
+      "PRICING": "Pricing",
+      "CONTACT": "Contact",
+      "FAQ": "FAQ"
+    },
+    "BUTTON": "Get Free Trial"
+  },
+  "MAIN_FOOTER": {
+    "COMPANY": {
+      "TITLE": "Navigation",
+      "HOME": "Home",
+      "PRICING": "Pricing",
+      "FREE_TRIAL": "Free Trial"
+    },
+    "LEGAL": {
+      "TITLE": "Legal",
+      "PRIVACY_POLICY": "Privacy Policy",
+      "TERMS_AND_CONDITIONS": "Terms & Conditions",
+      "REFUND_POLICY": "Refund Policy"
+    },
+    "SUPPORT": {
+      "TITLE": "Support",
+      "HELP": "Help Center",
+      "CONTACT": "Contact",
+      "FAQ": "FAQ"
+    },
+    "CONTACT": {
+      "TITLE": "Contact Us"
+    },
+    "COPYRIGHT": "2024 Nutritechagro. All Rights Reserved"
+  },
+  "NOT_FOUND": {
+    "TITLE": "404",
+    "SUBTITLE": "Page Not<Br/>Found",
+    "LINK": "We're sorry about that. Do you want<Br/>to have a look at our <Link>Homepage</Link>?"
+  },
+  "PREFOOTER_SUBSCRIBE": {
+    "TITLE": "Join Us for Exclusive News and Deals",
+    "SUBTITLE": "Don’t miss anything",
+    "BUTTON_SUBSCRIBE": "Subscribe",
+    "BUTTON_SUBSCRIBED": "Subscribed",
+    "EMAIL_PLACEHOLDER": "Enter your email address",
+    "SUBSCRIBED_TITLE": "Thank you for subscribing!",
+    "SUBSCRIBED_MESSAGE": "You have been subscribed to our newsletter!",
+    "ERROR_TITLE": "An error occurred",
+    "ERROR_MESSAGE": "Please try again later"
+  },
+  "VALIDATION": {
+    "EMAIL_INVALID": "Please enter a valid email address",
+    "EMAIL_REQUIRED": "Email is required",
+    "EMAIL_FAKE": "This email is not valid",
+    "RECAPTCHA_REQUIRED": "Please confirm that you are not a robot",
+    "FULLNAME_REQUIRED": "Full name is required",
+    "MESSAGE_REQUIRED": "Message is required",
+    "MAX_LENGTH": "Max length is {{max}} characters",
+    "DEVICES_REQUIRED": "Devices are required",
+    "COUNTRIES_REQUIRED": "Minimum 1 country is required",
+    "TERMS_REQUIRED": "You must agree to the privacy policy and terms of service to continue",
+    "EXISTING_PLAYER_REQUIRED": "Existing player is required",
+    "PHONE_REQUIRED": "Phone is required",
+    "PHONE_INVALID": "Please enter a valid phone number, starting with + and your country code",
+    "PASSWORD_REQUIRED": "Password is required",
+    "CONFIRM_PASSWORD_REQUIRED": "Confirm password is required",
+    "PASSWORD_MISMATCH": "Passwords do not match",
+    "FULLNAME_INVALID": "Please enter a valid full name",
+    "USERNAME_REQUIRED": "Username is required",
+    "HOST_REQUIRED": "Host is required"
+  },
+  "GENERAL": {
+    "RECAPTCHA_MESSAGE": "This site is protected by reCAPTCHA and the Google <Link1>Privacy Policy</Link1> and <Link2>Terms of Service</Link2> apply.",
+    "YES": "Yes",
+    "NO": "No",
+    "OR": "or"
+  },
+  "HELMET": {
+    "NOT_FOUND": {
+      "TITLE": "404 - Nutritechagro",
+      "DESCRIPTION": "We're sorry about that. Do you want to have a look at our Homepage?"
+    },
+    "FREE_TRIAL": {
+      "TITLE": "Start Your 24-Hour Free Trial Now! - Nutritechagro",
+      "DESCRIPTION": "Start your 24-hour free trial and experience the best in live TV and on-demand content."
+    }
+  },
+  "FREE_TRIAL": {
+    "TITLE": "START YOUR <Span1>24-HOUR</Span1> FREE <Span2>TRIAL</Span2> NOW!",
+    "DESCRIPTION": "Start your 24-hour free trial and experience the best in live TV and on-demand content.",
+    "FEATURES": [
+      "24 Hour Free Trial",
+      "No Credit Card Required",
+      "Access to 35,000+ Live TV Channels",
+      "70,000+ On-Demand Titles"
+    ],
+    "FORM": {
+      "FULLNAME": "Full Name",
+      "FULLNAME_PLACEHOLDER": "Enter your full name",
+      "EMAIL": "Email Address",
+      "EMAIL_PLACEHOLDER": "Enter your email address",
+      "PHONE": "Phone Number",
+      "PHONE_PLACEHOLDER": "e.g. +1234567890",
+      "COUNTRIES": "Which countries' channels do you want for your trial?",
+      "COUNTRIES_PLACEHOLDER": "Select multiple countries",
+      "DEVICES": "Which devices do you use?",
+      "DEVICES_HINT": "Example: Smart TV, Mobile, Tablet, Laptop, MAG, etc.",
+      "DEVICES_PLACEHOLDER": "Enter your devices",
+      "EXISTING_PLAYER": "Do you have an existing player on your device?",
+      "TERMS": "By clicking the button, you agree to our <Link1>Terms & Conditions</Link1> and <Link2>Privacy Policy</Link2>.",
+      "SUBMIT_BUTTON": "Start Your Trial",
+      "SUBMIT_BUTTON_SUCCESS": "Submitted"
+    },
+    "TRIAL_DETAILS_RECEIVED": {
+      "TITLE": "Thank you for your interest!",
+      "DESCRIPTION": "We will send you an email with your trial details shortly.",
+      "TRIAL_ID": "Trial ID: <Strong>{{trialId}}</Strong>",
+      "CHECK_SPAM": "If you haven't received the email, please check your <Strong>spam folder</Strong>. Alternatively, you can reach out to us via <LinkWhatsapp>WhatsApp</LinkWhatsapp> or <LinkTelegram>Telegram</LinkTelegram>, by providing your trial ID at <LinkPhone>{{contactNumber}}</LinkPhone>.",
+      "WHATSAPP_MESSAGE": "Hello! I'm interested in trying out Nutritechagro. My trial ID is {{trialId}}."
+    },
+    "TRIAL_DETAILS_FAILED": {
+      "TITLE": "An error occurred",
+      "DESCRIPTION": "Please try again later or contact us by clicking <Link>here</Link>."
+    },
+    "ALREADY_TRIED": {
+      "TITLE": "You have already tried our free trial",
+      "DESCRIPTION": "If you think this is a mistake, please contact us by clicking <Link>here</Link>."
+    }
+  }
+}

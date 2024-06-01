@@ -1,0 +1,129 @@
+{
+  "MAIN_HEADER": {
+    "MENU": {
+      "PRICING": "Precios",
+      "CONTACT": "Contacto",
+      "FAQ": "FAQ"
+    },
+    "BUTTON": "Obtener Prueba Gratis"
+  },
+  "MAIN_FOOTER": {
+    "COMPANY": {
+      "TITLE": "Navegación",
+      "HOME": "Inicio",
+      "PRICING": "Precios",
+      "FREE_TRIAL": "Prueba Gratis"
+    },
+    "LEGAL": {
+      "TITLE": "Legal",
+      "PRIVACY_POLICY": "Política de Privacidad",
+      "TERMS_AND_CONDITIONS": "Términos y Condiciones",
+      "REFUND_POLICY": "Política de Reembolso"
+    },
+    "SUPPORT": {
+      "TITLE": "Soporte",
+      "HELP": "Centro de Ayuda",
+      "CONTACT": "Contacto",
+      "FAQ": "FAQ"
+    },
+    "CONTACT": {
+      "TITLE": "Contáctenos"
+    },
+    "COPYRIGHT": "2024 Nutritechagro. Todos los derechos reservados"
+  },
+  "NOT_FOUND": {
+    "TITLE": "404",
+    "SUBTITLE": "Página No<Br/>Encontrada",
+    "LINK": "Lo sentimos por eso. ¿Quiere<Br/>ver nuestra <Link>Página de Inicio</Link>?"
+  },
+  "PREFOOTER_SUBSCRIBE": {
+    "TITLE": "Únase a Nosotros para Noticias y Ofertas Exclusivas",
+    "SUBTITLE": "No te pierdas nada",
+    "BUTTON_SUBSCRIBE": "Suscribirse",
+    "BUTTON_SUBSCRIBED": "Suscrito",
+    "EMAIL_PLACEHOLDER": "Ingrese su dirección de correo electrónico",
+    "SUBSCRIBED_TITLE": "¡Gracias por suscribirse!",
+    "SUBSCRIBED_MESSAGE": "¡Te has suscrito a nuestro boletín!",
+    "ERROR_TITLE": "Ocurrió un error",
+    "ERROR_MESSAGE": "Por favor, inténtelo de nuevo más tarde"
+  },
+  "VALIDATION": {
+    "EMAIL_INVALID": "Por favor, ingrese una dirección de correo electrónico válida",
+    "EMAIL_REQUIRED": "El correo electrónico es requerido",
+    "EMAIL_FAKE": "Este correo electrónico no es válido",
+    "RECAPTCHA_REQUIRED": "Por favor, confirme que no es un robot",
+    "FULLNAME_REQUIRED": "El nombre completo es requerido",
+    "MESSAGE_REQUIRED": "El mensaje es requerido",
+    "MAX_LENGTH": "La longitud máxima es de {{max}} caracteres",
+    "DEVICES_REQUIRED": "Los dispositivos son requeridos",
+    "COUNTRIES_REQUIRED": "Se requiere al menos 1 país",
+    "TERMS_REQUIRED": "Debe aceptar la política de privacidad y los términos del servicio para continuar",
+    "EXISTING_PLAYER_REQUIRED": "Se requiere un reproductor existente",
+    "PHONE_REQUIRED": "El teléfono es requerido",
+    "PHONE_INVALID": "Por favor, ingrese un número de teléfono válido, comenzando con + y su código de país",
+    "PASSWORD_REQUIRED": "Se requiere una contraseña",
+    "CONFIRM_PASSWORD_REQUIRED": "Se requiere confirmar la contraseña",
+    "PASSWORD_MISMATCH": "Las contraseñas no coinciden",
+    "FULLNAME_INVALID": "Por favor, ingrese un nombre completo válido",
+    "USERNAME_REQUIRED": "El nombre de usuario es requerido",
+    "HOST_REQUIRED": "El host es requerido"
+  },
+  "GENERAL": {
+    "RECAPTCHA_MESSAGE": "Este sitio está protegido por reCAPTCHA y se aplican la <Link1>Política de Privacidad</Link1> y los <Link2>Términos del Servicio</Link2> de Google.",
+    "YES": "Sí",
+    "NO": "No",
+    "OR": "o"
+  },
+  "HELMET": {
+    "NOT_FOUND": {
+      "TITLE": "404 - Nutritechagro",
+      "DESCRIPTION": "Lo sentimos por eso. ¿Quiere ver nuestra Página de Inicio?"
+    },
+    "FREE_TRIAL": {
+      "TITLE": "¡Empiece su Prueba Gratuita de 24 Horas Ahora! - Nutritechagro",
+      "DESCRIPTION": "Empiece su prueba gratuita de 24 horas y experimente lo mejor en TV en vivo y contenido a pedido."
+    }
+  },
+  "FREE_TRIAL": {
+    "TITLE": "¡EMPIEZA TU <Span1>PRUEBA GRATUITA</Span1> DE <Span2>24 HORAS</Span2> AHORA!",
+    "DESCRIPTION": "Empiece su prueba gratuita de 24 horas y experimente lo mejor en TV en vivo y contenido a pedido.",
+    "FEATURES": [
+      "Prueba Gratuita de 24 Horas",
+      "No se Requiere Tarjeta de Crédito",
+      "Acceso a Más de 35,000 Canales de TV en Vivo",
+      "Más de 70,000 Títulos a Pedido"
+    ],
+    "FORM": {
+      "FULLNAME": "Nombre Completo",
+      "FULLNAME_PLACEHOLDER": "Ingrese su nombre completo",
+      "EMAIL": "Dirección de Correo Electrónico",
+      "EMAIL_PLACEHOLDER": "Ingrese su dirección de correo electrónico",
+      "PHONE": "Número de Teléfono",
+      "PHONE_PLACEHOLDER": "p. ej. +1234567890",
+      "COUNTRIES": "¿De qué países quieres canales para tu prueba?",
+      "COUNTRIES_PLACEHOLDER": "Seleccione varios países",
+      "DEVICES": "¿Qué dispositivos usas?",
+      "DEVICES_HINT": "Ejemplo: Smart TV, Móvil, Tableta, Portátil, MAG, etc.",
+      "DEVICES_PLACEHOLDER": "Ingrese sus dispositivos",
+      "EXISTING_PLAYER": "¿Tiene un reproductor existente en su dispositivo?",
+      "TERMS": "Al hacer clic en el botón, acepta nuestros <Link1>Términos y Condiciones</Link1> y <Link2>Política de Privacidad</Link2>.",
+      "SUBMIT_BUTTON": "Empieza Tu Prueba",
+      "SUBMIT_BUTTON_SUCCESS": "Enviado"
+    },
+    "TRIAL_DETAILS_RECEIVED": {
+      "TITLE": "¡Gracias por su interés!",
+      "DESCRIPTION": "Le enviaremos un correo electrónico con los detalles de su prueba en breve.",
+      "TRIAL_ID": "ID de Prueba: <Strong>{{trialId}}</Strong>",
+      "CHECK_SPAM": "Si no ha recibido el correo electrónico, por favor revise su <Strong>carpeta de spam</Strong>. Alternativamente, puede contactarnos a través de <LinkWhatsapp>WhatsApp</LinkWhatsapp> o <LinkTelegram>Telegram</LinkTelegram>, proporcionando su ID de prueba en <LinkPhone>{{contactNumber}}</LinkPhone>.",
+      "WHATSAPP_MESSAGE": "¡Hola! Estoy interesado en probar Nutritechagro. Mi ID de prueba es {{trialId}}."
+    },
+    "TRIAL_DETAILS_FAILED": {
+      "TITLE": "Ocurrió un error",
+      "DESCRIPTION": "Por favor, inténtelo de nuevo más tarde o contáctenos haciendo clic <Link>aquí</Link>."
+    },
+    "ALREADY_TRIED": {
+      "TITLE": "Ya ha probado nuestra prueba gratuita",
+      "DESCRIPTION": "Si cree que esto es un error, por favor contáctenos haciendo clic <Link>aquí</Link>."
+    }
+  }
+}

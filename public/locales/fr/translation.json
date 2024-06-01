@@ -1,0 +1,129 @@
+{
+  "MAIN_HEADER": {
+    "MENU": {
+      "PRICING": "Tarification",
+      "CONTACT": "Contact",
+      "FAQ": "FAQ"
+    },
+    "BUTTON": "Obtenir un essai gratuit"
+  },
+  "MAIN_FOOTER": {
+    "COMPANY": {
+      "TITLE": "Navigation",
+      "HOME": "Accueil",
+      "PRICING": "Tarification",
+      "FREE_TRIAL": "Essai gratuit"
+    },
+    "LEGAL": {
+      "TITLE": "Légal",
+      "PRIVACY_POLICY": "Politique de confidentialité",
+      "TERMS_AND_CONDITIONS": "Conditions générales",
+      "REFUND_POLICY": "Politique de remboursement"
+    },
+    "SUPPORT": {
+      "TITLE": "Support",
+      "HELP": "Centre d'aide",
+      "CONTACT": "Contact",
+      "FAQ": "FAQ"
+    },
+    "CONTACT": {
+      "TITLE": "Contactez-nous"
+    },
+    "COPYRIGHT": "2024 Nutritechagro. Tous droits réservés"
+  },
+  "NOT_FOUND": {
+    "TITLE": "404",
+    "SUBTITLE": "Page Non<Br/>Trouvée",
+    "LINK": "Nous sommes désolés pour cela. Voulez-vous<Br/>jeter un œil à notre <Link>Page d'Accueil</Link>?"
+  },
+  "PREFOOTER_SUBSCRIBE": {
+    "TITLE": "Rejoignez-nous pour des Actualités et Offres Exclusives",
+    "SUBTITLE": "Ne manquez rien",
+    "BUTTON_SUBSCRIBE": "S'abonner",
+    "BUTTON_SUBSCRIBED": "Abonné",
+    "EMAIL_PLACEHOLDER": "Entrez votre adresse e-mail",
+    "SUBSCRIBED_TITLE": "Merci de vous être abonné !",
+    "SUBSCRIBED_MESSAGE": "Vous avez été abonné à notre newsletter !",
+    "ERROR_TITLE": "Une erreur s'est produite",
+    "ERROR_MESSAGE": "Veuillez réessayer plus tard"
+  },
+  "VALIDATION": {
+    "EMAIL_INVALID": "Veuillez entrer une adresse e-mail valide",
+    "EMAIL_REQUIRED": "L'e-mail est requis",
+    "EMAIL_FAKE": "Cet e-mail n'est pas valide",
+    "RECAPTCHA_REQUIRED": "Veuillez confirmer que vous n'êtes pas un robot",
+    "FULLNAME_REQUIRED": "Le nom complet est requis",
+    "MESSAGE_REQUIRED": "Le message est requis",
+    "MAX_LENGTH": "La longueur maximale est de {{max}} caractères",
+    "DEVICES_REQUIRED": "Les appareils sont requis",
+    "COUNTRIES_REQUIRED": "Au moins 1 pays est requis",
+    "TERMS_REQUIRED": "Vous devez accepter la politique de confidentialité et les conditions d'utilisation pour continuer",
+    "EXISTING_PLAYER_REQUIRED": "Le lecteur existant est requis",
+    "PHONE_REQUIRED": "Téléphone requis",
+    "PHONE_INVALID": "Veuillez saisir un numéro de téléphone valide, en commençant par + et votre code pays",
+    "PASSWORD_REQUIRED": "Le mot de passe est requis",
+    "CONFIRM_PASSWORD_REQUIRED": "La confirmation du mot de passe est requise",
+    "PASSWORD_MISMATCH": "Les mots de passe ne correspondent pas",
+    "FULLNAME_INVALID": "Veuillez entrer un nom complet valide",
+    "USERNAME_REQUIRED": "Le nom d'utilisateur est requis",
+    "HOST_REQUIRED": "L'hôte est requis"
+  },
+  "GENERAL": {
+    "RECAPTCHA_MESSAGE": "Ce site est protégé par reCAPTCHA et les <Link1>politique de confidentialité</Link1> et <Link2>conditions d'utilisation</Link2> de Google s'appliquent.",
+    "YES": "Oui",
+    "NO": "Non",
+    "OR": "Ou"
+  },
+  "HELMET": {
+    "NOT_FOUND": {
+      "TITLE": "404 - Nutritechagro",
+      "DESCRIPTION": "Nous sommes désolés pour cela. Voulez-vous jeter un œil à notre Page d'Accueil ?"
+    },
+    "FREE_TRIAL": {
+      "TITLE": "Commencez votre essai gratuit de 24 heures maintenant ! - Nutritechagro",
+      "DESCRIPTION": "Commencez votre essai gratuit de 24 heures et découvrez le meilleur de la télévision en direct et du contenu à la demande."
+    }
+  },
+  "FREE_TRIAL": {
+    "TITLE": "COMMENCEZ VOTRE <Span1>ESSAI GRATUIT</Span1> DE <Span2>24 HEURES</Span2> MAINTENANT !",
+    "DESCRIPTION": "Commencez votre essai gratuit de 24 heures et découvrez le meilleur de la télévision en direct et du contenu à la demande.",
+    "FEATURES": [
+      "Essai gratuit de 24 heures",
+      "Aucune carte de crédit requise",
+      "Accès à plus de 35 000 chaînes de télévision en direct",
+      "Plus de 70 000 titres à la demande"
+    ],
+    "FORM": {
+      "FULLNAME": "Nom complet",
+      "FULLNAME_PLACEHOLDER": "Entrez votre nom complet",
+      "EMAIL": "Adresse e-mail",
+      "EMAIL_PLACEHOLDER": "Entrez votre adresse e-mail",
+      "PHONE": "Numéro de téléphone",
+      "PHONE_PLACEHOLDER": "par exemple, +1234567890",
+      "COUNTRIES": "De quels pays voulez-vous les chaînes pour votre essai ?",
+      "COUNTRIES_PLACEHOLDER": "Sélectionnez plusieurs pays",
+      "DEVICES": "Quels appareils utilisez-vous ?",
+      "DEVICES_HINT": "Exemple : Smart TV, Mobile, Tablette, Ordinateur portable, MAG, etc.",
+      "DEVICES_PLACEHOLDER": "Entrez vos appareils",
+      "EXISTING_PLAYER": "Avez-vous un lecteur existant sur votre appareil ?",
+      "TERMS": "En cliquant sur le bouton, vous acceptez nos <Link1>Conditions générales</Link1> et notre <Link2>Politique de confidentialité</Link2>.",
+      "SUBMIT_BUTTON": "Commencer l'essai",
+      "SUBMIT_BUTTON_SUCCESS": "Envoyé"
+    },
+    "TRIAL_DETAILS_RECEIVED": {
+      "TITLE": "Merci pour votre intérêt!",
+      "DESCRIPTION": "Nous vous enverrons un email avec les détails de votre essai sous peu.",
+      "TRIAL_ID": "Identifiant d'essai : <Strong>{{trialId}}</Strong>",
+      "CHECK_SPAM": "Si vous n'avez pas reçu l'email, veuillez vérifier votre <Strong>dossier de spam</Strong>. Alternativement, vous pouvez nous contacter via <LinkWhatsapp>WhatsApp</LinkWhatsapp> ou <LinkTelegram>Télégramme</LinkTelegram>, en fournissant votre identifiant d'essai au <LinkPhone>{{contactNumber}}</LinkPhone>.",
+      "WHATSAPP_MESSAGE": "Bonjour ! Je suis intéressé à essayer Nutritechagro. Mon identifiant d'essai est {{trialId}}."
+    },
+    "TRIAL_DETAILS_FAILED": {
+      "TITLE": "Une erreur s'est produite",
+      "DESCRIPTION": "Veuillez réessayer plus tard ou nous contacter en cliquant <Link>ici</Link>."
+    },
+    "ALREADY_TRIED": {
+      "TITLE": "Vous avez déjà essayé notre essai gratuit",
+      "DESCRIPTION": "Si vous pensez que c'est une erreur, veuillez nous contacter en cliquant <Link>ici</Link>."
+    }
+  }
+}
