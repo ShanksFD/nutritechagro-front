@@ -1,7 +1,7 @@
 {
   "name": "nutritechagro-front",
   "version": "0.1.0",
-  "homepage": "https://nutritechagro.com",
+  "homepage": "https://nutritechagro.netlify.app/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",

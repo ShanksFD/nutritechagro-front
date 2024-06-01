@@ -408,9 +408,7 @@ export function AdminHeader() {
                     backgroundColor: user?.userInfo?.profileColor,
                     fontSize: '16px',
                   }}
-                  children={`${user?.userInfo?.displayName.split(' ')[0][0]}${
-                    user?.userInfo?.displayName.split(' ')[1][0]
-                  }`}
+                  children={`AS`}
                   onClick={handleLangPopoverOpen}
                 />
               )}
