@@ -131,8 +131,7 @@ export default function PreFooter() {
           <Formik
             initialValues={{
               email: '',
-              recaptcha:
-                process.env.REACT_APP_ENV === 'development' ? 'test' : '',
+              recaptcha: '',
             }}
             validationSchema={() => newsletterSchema(t)}
             validateOnChange={false}

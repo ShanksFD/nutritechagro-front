@@ -244,8 +244,7 @@ export default function FreeTrial() {
                 countries: [],
                 devices: '',
                 existingPlayer: '',
-                recaptcha:
-                  process.env.REACT_APP_ENV === 'development' ? 'test' : '',
+                recaptcha: '',
                 terms: false,
               }}
               validationSchema={() => freeTrialSchema(t)}
